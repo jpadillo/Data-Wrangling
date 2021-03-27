@@ -12,8 +12,7 @@ This is a data analytics project utilizing Python v.3 libraries Numpy, PANDAS, M
 <li> <a href=https://requests.readthedocs.io/en/master/>Requests</a>
 
 # Data Analysis Outline:
-<li> 
-<li> The first stage of data analysis is data wrangling, and in data wranling, the first step is gathering data. In this stage, pandas requests, numpy, Beautiful Soup, Tweepy and os were utilized to gather and read in data from three different sources.
+<li> The first stage of data analysis is data wrangling, and in data wrangling, the first step is gathering data. In this stage, pandas requests, numpy, Beautiful Soup, Tweepy and os were utilized to gather and read data from three different sources.
 <li> The second step of data wrangling is assessment wherein we utilize both visual and programmatic assessment methods in order to assess data quality and tidiness issues that we need to address prior to analyzing data.
 <li> The third and last step of the data wrangling process is the cleaning stage wherein we use several pandas methods in order to clean any quality and tidiness issues we've detected during the assessment process.
 <li> The last part of the data analytics process is data visualization and analysis. In this section, I used Matplotlib in order to create visualizations and show results of my analysis.
